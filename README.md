@@ -1,5 +1,7 @@
 # Active Admin Template
 
+Packages available for PimCore 10.x and PimCore 11.x
+
 Template for PimCore admin. Bundle for modifying the back-office interface. Perspective and custom layout management.
 
 The bundle does not modify PimCore's css and js so you can uninstall it and return to PimCore's default interface.
